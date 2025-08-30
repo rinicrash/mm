@@ -1,0 +1,9 @@
+cubic.py
+euler.py
+fwdbwd.py
+queue.py
+rk4.py
+trap_simp.py
+ttest.py
+paper.py
+use file names
